@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi there, I'm Thao! 👋
+# Hi, I'm Thao!
 
 ### Business Analysis | Data Analytics | Data Science
 
@@ -22,6 +22,10 @@ I'm a **Master of Information Technology graduate (Data Science major)** from Qu
 My background combines hands-on business analysis, SQL, and CRM solutions with data analytics, machine learning, and data visualisation.
 
 I enjoy understanding business problems, working with data, and finding practical solutions that make a difference.
+
+📍 Brisbane, Australia &nbsp;&nbsp;·&nbsp;&nbsp;
+📧 [Email](mailto:quynhanhthao.161@gmail.com) &nbsp;&nbsp;·&nbsp;&nbsp;
+💼 [LinkedIn](www.linkedin.com/in/anh-thao-nguyen-25077a1b0)
 
 ---
 
