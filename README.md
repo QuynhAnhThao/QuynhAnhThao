@@ -24,8 +24,8 @@ My background combines hands-on business analysis, SQL, and CRM solutions with d
 I enjoy understanding business problems, working with data, and finding practical solutions that make a difference.
 
 📍 Brisbane, Australia &nbsp;&nbsp;·&nbsp;&nbsp;
-📧 [Email](mailto:quynhanhthao.161@gmail.com) &nbsp;&nbsp;·&nbsp;&nbsp;
-💼 [LinkedIn](www.linkedin.com/in/anh-thao-nguyen-25077a1b0)
+📧 <a href="mailto:quynhanhthao.161@gmail.com">quynhanhthao.161@gmail.com</a> &nbsp;·&nbsp;
+💼 <a href="https://www.linkedin.com/in/anh-thao-nguyen-25077a1b0/">LinkedIn</a>
 
 ---
 
